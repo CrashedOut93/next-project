@@ -106,5 +106,8 @@
     .navbar__container{
         display: flex;
         justify-content: space-between;
+        height: 80px; 
+        z-index: 1;
+        
     }
 }
