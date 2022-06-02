@@ -114,6 +114,7 @@
     }
 
     .navbar__menu{
-        
+        display: grid;
+        grid-template-columns: auto;
     }
 }
