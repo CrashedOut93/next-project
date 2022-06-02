@@ -120,5 +120,6 @@
         width: 100%;
         position: absolute;
         top: -1000px;
+        opacity: 0;
     }
 }
